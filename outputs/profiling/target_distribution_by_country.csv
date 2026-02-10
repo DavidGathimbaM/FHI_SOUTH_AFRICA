@@ -1,0 +1,13 @@
+country,Target,count,pct_within_country
+eswatini,Low,1375,51.42
+eswatini,Medium,992,37.1
+eswatini,High,307,11.48
+lesotho,Low,1174,60.39
+lesotho,Medium,764,39.3
+lesotho,High,6,0.31
+malawi,Low,1940,81.24
+malawi,Medium,352,14.74
+malawi,High,96,4.02
+zimbabwe,Low,1791,68.57
+zimbabwe,Medium,760,29.1
+zimbabwe,High,61,2.34

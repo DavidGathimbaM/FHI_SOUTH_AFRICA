@@ -1,0 +1,22 @@
+column,tokens_found
+ID,['NA']
+attitude_more_successful_next_year,"[""Don't"", 'N/A']"
+attitude_satisfied_with_achievement,"[""Don't"", 'N/A']"
+attitude_stable_business_environment,['N/A']
+attitude_worried_shutdown,['N/A']
+compliance_income_tax,['Refused']
+covid_essential_service,"[""Don't""]"
+funeral_insurance,"[""Don't""]"
+has_credit_card,"[""Don't""]"
+has_debit_card,"[""Don't""]"
+has_internet_banking,"[""Don't""]"
+has_loan_account,"[""Don't""]"
+has_mobile_money,"[""Don't""]"
+medical_insurance,"[""Don't""]"
+motor_vehicle_insurance,"[""Don't""]"
+perception_cannot_afford_insurance,"[""Don't""]"
+perception_insurance_companies_dont_insure_businesses_like_yours,"[""Don't""]"
+perception_insurance_doesnt_cover_losses,"[""Don't""]"
+perception_insurance_important,"[""Don't""]"
+uses_friends_family_savings,"[""Don't""]"
+uses_informal_lender,"[""Don't""]"
