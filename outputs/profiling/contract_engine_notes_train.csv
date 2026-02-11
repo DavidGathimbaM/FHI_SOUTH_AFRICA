@@ -1,0 +1,6 @@
+0
+Renamed ID -> business_id.
+Added missing canonical column: 'ID' as NaN (for schema alignment).
+"Normalized 32 categorical columns (apostrophes, midding tokens, dont_know)."
+Derived business_age_years from business_age_months where missing.
+Missing required column: country. Cannot score.
